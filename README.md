@@ -1,3 +1,3 @@
-- Nick name: Rolloke
+- Nick name: Rollo
 - Hobbies: swim, bike, tinker, coding
 - public projects: Aduino-libraries
